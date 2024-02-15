@@ -21,7 +21,7 @@ Hi everyone! This is me practcing how to properly use GitHub! I am excited to le
 
 ## files used 
 
-none as of now 
+[helpful file I used] [https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax]  
 
 ### additional documentation
 
