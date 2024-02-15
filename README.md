@@ -1,7 +1,8 @@
 # hello-world
 This repository is for practice in GitHub, guided by a course at uiowa. 
 hello GitHub world. My name is Sara. This is me practicing with GitHub.
-##table of contents 
+
+## table of contents 
 
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
@@ -10,18 +11,18 @@ hello GitHub world. My name is Sara. This is me practicing with GitHub.
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 - [VERSIONING](#versioning)
 
-##project title
+## project title
 
 *hello GitHub world:course project*
 
-##description
+## description
 
 Hi everyone! This is me practcing how to properly use GitHub! I am excited to learn how to code and further my BAIS knowledge! YAY! 
 
-##files used 
+## files used 
 
 none as of now 
 
-###additional documentation
+### additional documentation
 
 I feel like I am learning so much. 
